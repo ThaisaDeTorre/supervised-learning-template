@@ -70,6 +70,7 @@ useful links:
 - [ ] K-Nearest Neighbors (KNN) Classifier
 - [ ] Decision Tree Classifier
 - [ ] Random Forest Classifier
+- [ ] softmax
 - [ ] plot results and comparations
       
 ## Evaluation
